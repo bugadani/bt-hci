@@ -71,7 +71,6 @@ dependencies = [
  "defmt 1.1.0",
  "embedded-io",
  "embedded-io-async",
- "log",
 ]
 
 [[package]]

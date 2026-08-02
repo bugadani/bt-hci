@@ -24,4 +24,3 @@ embedded-io = "0.7.1"
 embedded-io-async = "0.7.0"
 
 defmt = { version = "^1", optional = true }
-log = { version = "^0.4", optional = true }
